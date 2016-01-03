@@ -4,7 +4,7 @@
   <subtitle><![CDATA[改造Dash Button[amazon]]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2016-01-03T07:20:25.901Z</updated>
+  <updated>2016-01-03T08:14:45.867Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -13,6 +13,19 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[new title]]></title>
+    <link href="http://yoursite.com/2016/01/03/new-title/"/>
+    <id>http://yoursite.com/2016/01/03/new-title/</id>
+    <published>2016-01-03T08:14:45.000Z</published>
+    <updated>2016-01-03T08:14:45.867Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[如何设置amazon dash button]]></title>
